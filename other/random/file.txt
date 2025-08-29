@@ -1,0 +1,201 @@
+instructions file.txt is were all listing are stored, file1.txt is were new listing are kept this will reset every time you use the script, url.txt this is were you put the url with all the filters applied 
+£1,100
+3 Glendale Court,Belfast, Antrim, BT4 1TS
+2 beds
+https://www.propertynews.com/property-for-rent/3-glendale-court-belfast-bt4-1ts/property/APH1026800/
+
+£925
+121 Bloomfield Avenue,Belfast, County Antrim, BT5 5AB
+2 beds
+https://www.propertynews.com/property-for-rent/121-bloomfield-avenue-belfast-bt5-5ab/property/RED671958/
+
+£1,100
+14 Wandsworth Place,Belmont, Belfast, BT4 3GB
+3 beds
+https://www.propertynews.com/property-for-rent/14-wandsworth-place-belfast-bt4-3gb/property/MCLMCC3514/
+
+£1,250
+Clonlee Drive,Newtownards Road, Belfast, Antrim, BT4 3DA
+3 beds
+https://www.propertynews.com/property-for-rent/clonlee-drive-belfast-bt4-3da/property/MSG818819/
+
+£1,800
+28 Cabin Hill Park,Belfast, Antrim, BT5 7AL
+3 beds
+https://www.propertynews.com/property-for-rent/28-cabin-hill-park-belfast-bt5-7al/property/VRF1026397/
+
+£975
+Eagleton Hall, Apt 2 131 Upper Newtownards Road,Belfast, Antrim, BT4 3HW
+2 beds
+https://www.propertynews.com/property-for-rent/apt-2-131-upper-newtownards-road-belfast-bt4-3hw/property/VRF1026396/
+
+£925
+The Manor, Apt 5, 1 Belmont Church Road,Belfast, BT4 3FF
+2 beds
+https://www.propertynews.com/property-for-rent/apt-5-1-belmont-church-road-belfast-bt4-3ff/property/TRETRE98857/
+
+£1,200
+Apt 2 23 Knock Road,Belfast, Antrim, BT5 6LA
+2 beds
+https://www.propertynews.com/property-for-rent/apt-2-23-knock-road-belfast-bt5-6la/property/PLNI1026336/
+
+£1,050
+Apt 8 Knockdene Manor,Belfast, BT5 7AB
+2 beds
+https://www.propertynews.com/property-for-rent/apt-8-knockdene-manor-belfast-bt5-7ab/property/UPS11217-6-14939445/
+
+£760
+14 Bloomfield Street,Belfast, Antrim, BT5 5AU
+2 beds
+https://www.propertynews.com/property-for-rent/14-bloomfield-street-belfast-bt5-5au/property/PWC1026013/
+
+£975
+5A Hillview Avenue,Ballyhackamore, Belfast, County Antrim, BT5 6JR
+2 beds
+https://www.propertynews.com/property-for-rent/5a-hillview-avenue-belfast-bt5-6jr/property/AMPMAMPM3983/
+
+£2,200
+550A Upper Newtownards Road,Ballyhackamore, Belfast, BT4 3HE
+4 beds
+https://www.propertynews.com/property-for-rent/550a-upper-newtownards-road-belfast-bt4-3he/property/TRETRE98032/
+
+£450
+Room 5, 42 Grace Avenue,Belfast, County Antrim, BT5 5JH
+5 beds
+https://www.propertynews.com/property-for-rent/rm-5-42-grace-avenue-belfast-bt5-5jh/property/VEB82863-1-18149471/
+
+£1,500
+1A Belmont Avenue,Belfast, Antrim, BT4 3DD
+4 beds
+https://www.propertynews.com/property-for-rent/1a-belmont-avenue-belfast-bt4-3dd/property/RED858767/
+
+£1,200
+Sandown Court, 10 82 Sandown Road,Ballyhackamore, Down, BT5 6GU
+2 beds
+https://www.propertynews.com/property-for-rent/10-82-sandown-road-ballyhackamore-bt5-6gu/property/PLNI995405/
+
+£1,000
+157 Parkgate Avenue,Belfast, Antrim, BT4 1JD
+3 beds
+https://www.propertynews.com/property-for-rent/157-parkgate-avenue-belfast-bt4-1jd/property/BTWEB1024922/
+
+£850
+67 Woodcot Avenue,Belfast, Antrim, BT5 5JB
+2 beds
+https://www.propertynews.com/property-for-rent/67-woodcot-avenue-belfast-bt5-5jb/property/QBX1024843/
+
+£995
+86 Belmont Avenue,Belfast, Antrim, BT4 3DE
+2 beds
+https://www.propertynews.com/property-for-rent/86-belmont-avenue-belfast-bt4-3de/property/PWC1024572/
+
+£950
+Apartment 10 Scotts Gate 79 Abetta Parade,Belfast, Antrim, BT5 5LA
+2 beds
+https://www.propertynews.com/property-for-rent/apartment-10-scotts-gate-79-abetta-parade-belfast-bt5-5la/property/VRF1024088/
+
+£875
+81 Grace Avenue,Belfast, Antrim, BT5 5JJ
+2 beds
+https://www.propertynews.com/property-for-rent/81-grace-avenue-belfast-bt5-5jj/property/VRF1023924/
+
+£1,450
+49 Belmont Church Road,Belfast, BT4 3FF
+4 beds
+https://www.propertynews.com/property-for-rent/49-belmont-church-road-belfast-bt4-3ff/property/VEB83326-1-18666167/
+
+£950
+24 Eastleigh Crescent,Ballyhackamore, Belfast, Antrim, BT5 6HT
+3 beds
+https://www.propertynews.com/property-for-rent/24-eastleigh-crescent-belfast-bt5-6ht/property/JMB1022224/
+
+£850
+4 Hollycroft Avenue,Belfast, County Antrim, BT5 5JE
+2 beds
+https://www.propertynews.com/property-for-rent/4-hollycroft-avenue-belfast-bt5-5je/property/UPS11217-6-17040175/
+
+£895
+21 Grace Avenue,Belfast, Antrim, BT5 5JH
+2 beds
+https://www.propertynews.com/property-for-rent/21-grace-avenue-belfast-bt5-5jh/property/POG1021821/
+
+£900
+18 Kensington Avenue,Belfast, Antrim, BT5 5JN
+2 beds
+https://www.propertynews.com/property-for-rent/18-kensington-avenue-belfast-bt5-5jn/property/BTWEB1021348/
+
+£1,450
+13 Greenwood Park,Belfast, Antrim, BT4 3JN
+3 beds
+https://www.propertynews.com/property-for-rent/13-greenwood-park-belfast-bt4-3jn/property/JMB1014651/
+
+£795
+21 Elmdale Street,Belfast, County Antrim, BT5 5BX
+2 beds
+https://www.propertynews.com/property-for-rent/21-elmdale-street-belfast-bt5-5bx/property/TRLTRL88265/
+
+£1,250
+57 Belmont Avenue,Belmont Road, Belfast, Antrim, BT4 3DE
+2 beds
+https://www.propertynews.com/property-for-rent/57-belmont-avenue-belfast-bt4-3de/property/KRW955862/
+
+£500
+Lomond Avenue,Belfast, Down, BT4 3AJ
+4 beds
+https://www.propertynews.com/property-for-rent/lomond-avenue-belfast-bt4-3aj/property/IRJ1018923/
+
+£625
+Woodcot Avenue,Belfast, Antrim, BT5 5JA
+5 beds
+https://www.propertynews.com/property-for-rent/woodcot-avenue-belfast-bt5-5ja/property/IRJ1018759/
+
+£1,100
+42 Dunraven Avenue,Belfast, BT5 5JR
+2 beds
+https://www.propertynews.com/property-for-rent/42-dunraven-avenue-belfast-bt5-5jr/property/BCCE789094/
+
+£1,200
+Apt 4 Knockdene Manor,Belfast, County Antrim, BT5 7AB
+2 beds
+https://www.propertynews.com/property-for-rent/apt-4-knockdene-manor-belfast-bt5-7ab/property/UPS11217-6-15539814/
+
+£567
+Room 1 32 Sandown Rd,Belfast, Antrim, BT5 6GY
+5 beds
+https://www.propertynews.com/property-for-rent/room-1-32-sandown-rd-belfast-bt5-6gy/property/ERB987273/
+
+£750
+Flat 6, 434 Upper Newtownards Road,Belfast, Antrim, BT4 3GY
+2 beds
+https://www.propertynews.com/property-for-rent/434-upper-newtownards-road-belfast-bt4-3gy/property/FES566100/
+
+£825
+25 Dunraven Parade,Belfast, Antrim, BT5 6BT
+2 beds
+https://www.propertynews.com/property-for-rent/25-dunraven-parade-belfast-bt5-6bt/property/KRW727983/
+
+£850
+5 Greenville Avenue,Belfast, Antrim, BT5 5AH
+2 beds
+https://www.propertynews.com/property-for-rent/5-greenville-avenue-belfast-bt5-5ah/property/FPL1027111/
+
+£925
+12A Glenhoy Drive,Belfast, BT5 5LB
+3 beds
+https://www.propertynews.com/property-for-rent/12a-glenhoy-drive-belfast-bt5-5lb/property/UPS11217-6-14938620/
+
+£950
+*** Open Viewing: Weds 23Rd 11Am To 1145Am ***, 8 Hewitt Parade,Ballyhackamore, Belfast, BT5 6JT
+2 beds
+https://www.propertynews.com/property-for-rent/8-hewitt-parade-belfast-bt5-6jt/property/TRETRH84424/
+
+£1,200
+35 Glenbrook Avenue,Belfast, Antrim, BT5 5JP
+4 beds
+https://www.propertynews.com/property-for-rent/35-glenbrook-avenue-belfast-bt5-5jp/property/PLN1027002/
+
+£875
+29 Moorgate Street,Bloomfield, Belfast, Antrim, BT5 5BZ
+2 beds
+https://www.propertynews.com/property-for-rent/29-moorgate-street-belfast-bt5-5bz/property/MCX1026918/
+
